@@ -27,7 +27,7 @@
     "@fastify/cors": "^11.0.1",
     "@types/bcrypt": "^5.0.2",
     "bcrypt": "^6.0.0",
-    "better-auth": "^1.2.12",
+    "better-auth": "^1.4.17",
     "better-sqlite3": "^12.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
@@ -45,5 +45,8 @@
     "tsx": "^4.20.3",
     "typescript": "^5.8.3",
     "vitest": "^3.2.4"
+  },
+  "overrides": {
+    "tar": "^7.5.4"
   }
 }
