@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "author": "Brian Holt",
+  "author": "Emmanuel Selby",
   "license": "Apache-2.0",
   "type": "module",
   "scripts": {
